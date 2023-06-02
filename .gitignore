@@ -1,3 +1,7 @@
+# .gitignore
+
+##> https://github.com/github/gitignore/blob/main/Node.gitignore
+
 # Logs
 logs
 *.log
@@ -128,3 +132,16 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+#> add.
+[Tt]emp/
+[Tt]humbs.db
+$RECYCLE.BIN/
+.DS_Store
+
+#> Certificate
+*.key
+*.csr
+*.crt
+*.cer
+*.pfx

@@ -1,0 +1,9 @@
+{
+  "name": "examples-js-react",
+  "version": "1.0.0",
+  "description": "Workspace for studying React programming.",
+  "private": true,
+  "workspaces": [
+    "src/*"
+  ]
+}
